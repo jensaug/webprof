@@ -1,0 +1,13 @@
+<projectDescription>
+  <name>webprof</name>
+  <comment>A starter Java EE 6 webapp project for use on Java EE 6-compliant application servers, generated from the jboss-javaee6-webapp archetype. NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+  <projects/>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>
